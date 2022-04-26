@@ -4,6 +4,7 @@ from MoodleClient import MoodleClient
 
 from JDatabase import JsonDatabase
 import zipfile
+import vdirect
 import os
 import infos
 import xdlink
